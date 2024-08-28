@@ -1,4 +1,5 @@
 streamlit==1.25.0   # Example version, adjust as needed
+pip>=23.0.0
 spacy==3.5.0
 requests==2.31.0
 bs4==0.0.1
