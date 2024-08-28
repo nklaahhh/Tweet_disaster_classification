@@ -1,7 +1,5 @@
 python -m spacy download  en_core_web_sm
-pip show spacy thinc
-pip install --upgrade pip
-pip install --upgrade thinc
+
 
 
 
