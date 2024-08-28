@@ -1,7 +1,7 @@
 streamlit
 spacy
 requests
-bs4
+beautifulsoup4
 transformers
 nltk
 torch
@@ -11,6 +11,7 @@ joblib
 numpy==1.26.4
 imbalanced-learn
 https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.5.0/en_core_web_sm-3.5.0-py3-none-any.whl
+
 
 
 
