@@ -1,6 +1,5 @@
 import streamlit as st
 import spacy
-import torch
 import requests
 from bs4 import BeautifulSoup
 from transformers import pipeline
