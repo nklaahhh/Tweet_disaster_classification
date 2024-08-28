@@ -1,7 +1,7 @@
 python -m spacy download  en_core_web_sm
 pip install --upgrade pip
 pip install numpy==1.26.4 thinc==8.1.0
-main.yml
+
 
 
       
